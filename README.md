@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Thejas R Shetty 
 
 # 💫 About Me:
-🎓 2nd Year Electronics & Communication Engineering  Student  <br><br>🔭 Working on : Academic ECE projects and circuit design  <br><br>🌱 Learning : Embedded Systems, Digital Electronics, and C#  <br><br>🔗 Connect with me on LinkedIn : https://www.linkedin.com/in/thejas-r-shetty
+🎓 Electronics & Communication Engineering  Student  <br><br>🔭 Working on : Academic ECE projects and circuit design  <br><br>🌱 Learning : Embedded Systems, Digital Electronics, and C#  <br><br>🔗 Connect with me on LinkedIn : https://www.linkedin.com/in/thejas-r-shetty
 
 
 ## 🌐 Socials:
